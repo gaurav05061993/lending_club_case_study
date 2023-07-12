@@ -23,10 +23,12 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 #### Step 4: Bivaraiate/Multivariate Analysis
 #### Step 5: Results   
 
+#### Obersvation 
+### irrespective of DTI when interest rates are high charged off loans are high.
 
 ### Contributors
-- Anushka Paradkar
-- Ritesh Vesalapu
+- Gaurav Tripathi
+- Varun Priyadarshi
 
 
 
